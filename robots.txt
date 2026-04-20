@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-d51gfo.gcpinboxgoo.com/sitemap.xml
